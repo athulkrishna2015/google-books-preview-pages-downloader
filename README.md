@@ -10,3 +10,4 @@ How to use:
 - Load the preview pages by scrolling untill every page is loaded for GBPPD to capture them.
 - Type gbppd.finish() on the console once you are finish, then press ENTER.
 - GBPPD will open a new tab with a list of all the links of the preview pages.
+- Use download manager to copy paste the link and download (JDownlader2)
